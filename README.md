@@ -82,6 +82,14 @@ driver = webdriver.Firefox(executable_path=driver_location, firefox_profile=fire
 git clone https://github.com/vol-automation/webscraping-udemy_free_courses.git
 ```
 
+## Usage
+
+- Run this command inside terminal at project folder:
+
+```sh
+py main.py
+```
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
